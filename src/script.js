@@ -9,7 +9,8 @@ import waveFragmentShader from "./shaders/wave/fragment.glsl";
  */
 // Debug
 const gui = new dat.GUI();
-
+// gui.hide();
+gui.close();
 // Canvas
 const canvas = document.querySelector("canvas.webgl");
 
