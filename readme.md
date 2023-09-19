@@ -4,7 +4,7 @@ This project showcases an animated waving flag created using Three.js, shaders, 
 
 ## Preview
 
-<img src="/preview//Waving Flag Preview Screenshot.png" alt="Expense Tracker" width="720">
+<img src="/preview//Waving Flag Preview Screenshot.png" alt="Waving Flag" width="720">
 
 ## Live Demo
 
@@ -38,4 +38,4 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 
 ---
 
-Enjoy using the Expense Tracker App! If you have any questions or suggestions, feel free to open an issue or contribute to the project.
+If you have any questions or suggestions, feel free to open an issue or contribute to the project.
